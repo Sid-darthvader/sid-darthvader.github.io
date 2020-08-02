@@ -10,9 +10,10 @@ redirect_from:
 
 Hi! I am Sid. My area of research lies in Predictive Modelling, Statistical Machine Learning and more recently Causal Inference. 
 Previously, I have worked on its applications to areas such as Materials Informatics, Computational Social Sciences, Business Analytics and Environmental Sciences.
-I have been fortunate enough to be advised by <a href="https://wwwfr.uni.lu/recherche/fstm/doe/members/stephane_bordas">Prof. Stéphane Bordas</a>, <a href="https://www.iitr.ac.in/~MT/Abhishek_Tewari">Prof. Abhishek Tewari</a> & <a href="https://math.snu.edu.in/people/faculty/niteesh-sahni">Prof. Niteesh Sahni</a> without whose unprecedented support & guidance has helped me progress further in my career.
+Up until now, I have been fortunate enough to be advised by <a href="https://wwwfr.uni.lu/recherche/fstm/doe/members/stephane_bordas">Prof. Stéphane Bordas</a>, <a href="https://www.iitr.ac.in/~MT/Abhishek_Tewari"> Prof. Abhishek Tewari</a> & <a href="https://math.snu.edu.in/people/faculty/niteesh-sahni">Prof. Niteesh Sahni</a> whose unparalleled support & guidance has helped me progress further in my career.
 
-In my free time you will find me listening to Classical Rock music, watching sitcoms or trying to find excuses to quote silly puns and Star Wars references. As a kid, I was quite fascinated by how Artificial Intelligence got potrayed in sci-fi movies and novels which ultimately led me into in this field today.
+As a kid, I was quite fascinated by how Artificial Intelligence got potrayed in sci-fi movies and novels which ultimately led me into in this field today.
+In my free time you will find me listening to Classical Rock music, watching sitcoms or trying to find excuses to quote silly puns and Star Wars references.
 
 
 ## News
