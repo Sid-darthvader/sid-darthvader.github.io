@@ -1,7 +1,0 @@
----
-title: "Network Learning approaches to study World Happiness"
-excerpt: "The United Nations in its 2011 resolution declared the pursuit of happiness a fundamental human goal and proposed public and economic policies centered around happiness. In this paper we used 2 types of computational strategies viz. Predictive Modelling and Bayesian Networks (BNs) to model the processed historical happiness index data of 156 nations published by UN since 2012. We attacked the problem of prediction using General Regression Neural Networks (GRNNs) and show that it out performs other state of the art predictive models. To understand causal links amongst key features that have been proven to have a significant impact on world happiness, we first used a manual discretization scheme to discretize continuous variables into 3 levels viz. Low, Medium and High. A consensus World Happiness BN structure was then fixed after amalgamating information by learning 10000 different BNs using bootstrapping. Lastly, exact inference through conditional probability queries was used on this BN to unravel interesting relationships among the important features affecting happiness which would be useful in policy making.<br/><img src='/images/happiness.png'>"
-collection: portfolio
----
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
