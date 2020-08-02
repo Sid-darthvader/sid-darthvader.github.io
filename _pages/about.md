@@ -17,10 +17,10 @@ In my free time you will find me listening to Classical Rock music, watching sit
 ## News
 
 <dl>
-  <dt><b>Started working as a Research Intern at IIT Roorkee (May-2020)</b></dt>
-  <dd>Working with <a href="https://www.iitr.ac.in/~MT/Abhishek_Tewari">Prof. Abhishek Tewari</a>, MMED, IIT Roorkee on Machine Learning based discovery of novel Thermoeletric Materials.  
+  <dt><b>Started working as a Research Intern at IIT Roorkee (May'2020-Present)</b></dt>
+  <dd>Worked with <a href="https://www.iitr.ac.in/~MT/Abhishek_Tewari">Prof. Abhishek Tewari</a>, MMED, IIT Roorkee on Machine Learning based discovery of novel Thermoeletric Materials.  
 </dd>
-  <dt><b>Invited to visit University of Luxembourg as a Visiting Scholar (Mar-2020)</b></dt>
+  <dt><b>Invited to visit University of Luxembourg as a Visiting Scholar (Mar'2020)</b></dt>
   <dd>Working with the <a href="https://legato-team.eu/ "> Legato team</a> of  <a href="https://wwwfr.uni.lu/recherche/fstm/doe/members/stephane_bordas">Prof. Stephane Bordas</a> on Physics Informed Deep Learning with its applications in Breast Biomechanics.</dd>
 </dl>
 
@@ -29,7 +29,7 @@ In my free time you will find me listening to Classical Rock music, watching sit
 <div class="split left">
   <div class="centered">
     <h2>Publications</h2>
-    <p style="color:blue;font-size:12px;"><ol>
+    <p style="font-size:8px;"><ol>
   <li><a href="https://drive.google.com/file/d/1C5chgw5nUV44JG-4XRjZg5k0dOxDA29O/view?usp=sharing"><i>"Machine Learning approaches to identify and design Low Thermal Conductivity Oxide Alloys for Thermoelectric Applications" in</i> <strong><i>Cambridge University Press</i></strong></a></li>
   <li><a href="http://arxiv.org/abs/2007.09181"><i>"Network Learning approaches to study World Happiness" in </i> <strong><i> Journal of Computational Social Sciences, Springer</i></strong></a></li>
   <li><a href="https://www.turing.ac.uk/research/publications/data-study-group-network-final-report-bristol-city-council"><i>"Get Bristol Moving-Tackling Air Pollution in Bristol City Center" in</i> <strong><i>Alan Turing Institute, London</i></strong></a></li>
