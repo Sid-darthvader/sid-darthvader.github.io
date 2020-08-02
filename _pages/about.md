@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Portfolio
+title: 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,7 +11,7 @@ redirect_from:
 Hi! I am Sid. My area of research lies in Predictive Modelling, Statistical Machine Learning and more recently Causal Inference. 
 Previously, I have worked on its applications to areas such as Materials Informatics, Computational Social Sciences, Business Analytics and Enviromental Sciences.
 
-In my free time you will find me listening to Classical Rock music, watching sitcoms or trying to find excuses to quote silly puns and Star Wars references. As a kid, I was quite fascinated by how Artificial Intelligence got potrayed in sci-fi movies and novels which ultimately got me doing research in this field today.
+In my free time you will find me listening to Classical Rock music, watching sitcoms or trying to find excuses to quote silly puns and Star Wars references. As a kid, I was quite fascinated by how Artificial Intelligence got potrayed in sci-fi movies and novels which ultimately led me into in this field today.
 
 
 ## News
@@ -24,10 +24,12 @@ In my free time you will find me listening to Classical Rock music, watching sit
   <dd>Worked with the <a href="https://legato-team.eu/ "> Legato team</a> of  <a href="https://wwwfr.uni.lu/recherche/fstm/doe/members/stephane_bordas">Prof. Stephane Bordas</a> on Physics Informed Deep Learning with its applications in Breast Biomechanics.</dd>
 </dl>
 ## Publications
-  <li><a href="https://drive.google.com/file/d/1C5chgw5nUV44JG-4XRjZg5k0dOxDA29O/view?usp=sharing"><i>"Machine Learning approaches to identify and design Low Thermal Conductivity Oxide Alloys for Thermoelectric Applications" </i></a> in <strong><i>Cambridge University Press</i></strong> </li>
-  <li><a href="http://arxiv.org/abs/2007.09181"><i>"Network Learning approaches to study World Happiness" </i></a> in <strong><i> Journal of Computational Social Sciences, Springer</i></strong></li>
-  <li><a href="https://www.turing.ac.uk/research/publications/data-study-group-network-final-report-bristol-city-council"><i>"Get Bristol Moving-Tackling Air Pollution in Bristol City Center"</i></a>in <strong><i>Alan Turing Institute, London</i></strong></li>
+
+  <li><a href="https://drive.google.com/file/d/1C5chgw5nUV44JG-4XRjZg5k0dOxDA29O/view?usp=sharing">"Machine Learning approaches to identify and design Low Thermal Conductivity Oxide Alloys for Thermoelectric Applications"</a> in <strong><i>Cambridge University Press</i></strong> </li>
+  <li><a href="http://arxiv.org/abs/2007.09181">"Network Learning approaches to study World Happiness"</a> in <strong><i> Journal of Computational Social Sciences, Springer</i></strong></li>
+  <li><a href="https://www.turing.ac.uk/research/publications/data-study-group-network-final-report-bristol-city-council">"Get Bristol Moving-Tackling Air Pollution in Bristol City Center"</a>in <strong><i>Alan Turing Institute, London</i></strong></li>
 </ol></p>
+
   <a class="twitter-timeline" width="380" height="400" href="https://twitter.com/sid__darthVader?ref_src=twsrc%5Etfw">Tweets by sid__darthVader</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
   
 <script type="text/javascript" src="https://www.counters-free.net/count/64ng"></script><br>
