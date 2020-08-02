@@ -27,6 +27,7 @@ In my free time you will find me listening to Classical Rock music, watching sit
   <dt><b>Invited to visit University of Luxembourg as a Visiting Scholar (Mar'2020)</b></dt>
   <dd>Worked with the <a href="https://legato-team.eu/ "> Legato team</a> of  <a href="https://wwwfr.uni.lu/recherche/fstm/doe/members/stephane_bordas">Prof. Stephane Bordas</a> on Physics Informed Deep Learning with its applications in Breast Biomechanics.</dd>
 </dl>
+
 ## Publications
 
   <li><a href="https://drive.google.com/file/d/1C5chgw5nUV44JG-4XRjZg5k0dOxDA29O/view?usp=sharing">"Machine Learning approaches to identify and design Low Thermal Conductivity Oxide Alloys for Thermoelectric Applications"</a> in <strong><i>Cambridge University Press</i></strong> </li>
