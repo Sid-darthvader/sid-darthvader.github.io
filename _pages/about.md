@@ -31,7 +31,7 @@ In my free time you will find me listening to Classical Rock music, watching sit
     <h2>Publications</h2>
     <p style="color:blue;font-size:12px;"><ol>
   <li><a href="https://drive.google.com/file/d/1C5chgw5nUV44JG-4XRjZg5k0dOxDA29O/view?usp=sharing"><i>"Machine Learning approaches to identify and design Low Thermal Conductivity Oxide Alloys for Thermoelectric Applications" in</i> <strong><i>Cambridge University Press</i></strong></a></li>
-  <li><a href="http://arxiv.org/abs/2007.09181><i>"Network Learning approaches to study World Happiness" under review in</i> <strong><i>Journal of Computational Social Sciences, Springer</i></strong></a></li>
+  <li><a href="http://arxiv.org/abs/2007.09181"><i>"Network Learning approaches to study World Happiness" in </i> <strong><i> Journal of Computational Social Sciences, Springer</i></strong></a></li>
   <li><a href="https://www.turing.ac.uk/research/publications/data-study-group-network-final-report-bristol-city-council"><i>"Get Bristol Moving-Tackling Air Pollution in Bristol City Center" in</i> <strong><i>Alan Turing Institute, London</i></strong></a></li>
 </ol></p>
   </div>
