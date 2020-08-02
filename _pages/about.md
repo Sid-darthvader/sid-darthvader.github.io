@@ -23,6 +23,6 @@ Working with <a href="https://www.iitr.ac.in/~MT/Abhishek_Tewari">Prof. Abhishek
 ### Invited to visit University of Luxembourg as a Visiting Scholar
 Working with the Legato team of Prof. Stephane Bordas on Physics Informed deep learning with its applications in Breast Biomechanics.
 
-
-
+<div id="sidebar" style="float:right;">
 <a class="twitter-timeline" width="280" height="300" href="https://twitter.com/sid__darthVader?ref_src=twsrc%5Etfw">Tweets by sid__darthVader</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
