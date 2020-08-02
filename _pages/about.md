@@ -18,12 +18,11 @@ In my free time you will find me listening to Classical Rock music, watching sit
 
 <dl>
   <dt><b>Started working as a Research Intern at IIT Roorkee (May-2020)</b></dt>
-  <dd>Working with <a href="https://www.iitr.ac.in/~MT/Abhishek_Tewari">Prof. Abhishek Tewari</a>, MMED, IIT Roorkee on Machine Learning based discovery of new and promising Thermoeletric Materials.  
+  <dd>Working with <a href="https://www.iitr.ac.in/~MT/Abhishek_Tewari">Prof. Abhishek Tewari</a>, MMED, IIT Roorkee on Machine Learning based discovery of novel Thermoeletric Materials.  
 </dd>
   <dt><b>Invited to visit University of Luxembourg as a Visiting Scholar (Mar-2020)</b></dt>
   <dd>Working with the <a href="https://legato-team.eu/ "> Legato team</a> of  <a href="https://wwwfr.uni.lu/recherche/fstm/doe/members/stephane_bordas">Prof. Stephane Bordas</a> on Physics Informed Deep Learning with its applications in Breast Biomechanics.</dd>
 </dl>
-<a class="twitter-timeline" width="380" height="400" href="https://twitter.com/sid__darthVader?ref_src=twsrc%5Etfw">Tweets by sid__darthVader</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Travel
 I love solo travelling and exploring different parts of the world. The map below highlights all the countries I have been fortunate enough to visit! 
@@ -87,3 +86,24 @@ rollOverOutlineColor : "#000000"
 });
 </script>
 
+<div class="split left">
+  <div class="centered">
+    <h2>Publications</h2>
+    <p><ol>
+  <li><a href="https://drive.google.com/file/d/1C5chgw5nUV44JG-4XRjZg5k0dOxDA29O/view?usp=sharing"><i>Machine Learning approaches to identify and design Low Thermal Conductivity Oxide Alloys for Thermoelectric Applications in</i> <strong><i>Cambridge University Press</i></strong></a></li>
+  <li><a href="https://drive.google.com/file/d/1C5chgw5nUV44JG-4XRjZg5k0dOxDA29O/view?usp=sharing"><i>Machine Learning approaches to identify and design Low Thermal Conductivity Oxide Alloys for Thermoelectric Applications in</i> <strong><i>Cambridge University Press</i></strong></a></li>
+  <li><a href="https://drive.google.com/file/d/1C5chgw5nUV44JG-4XRjZg5k0dOxDA29O/view?usp=sharing"><i>Machine Learning approaches to identify and design Low Thermal Conductivity Oxide Alloys for Thermoelectric Applications in</i> <strong><i>Cambridge University Press</i></strong></a></li>
+</ol></p>
+  </div>
+</div>
+
+<div class="split right">
+  <div class="centered">
+    <a class="twitter-timeline" width="380" height="400" href="https://twitter.com/sid__darthVader?ref_src=twsrc%5Etfw">Tweets by sid__darthVader</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </div>
+</div>
+
+
+
+<script type="text/javascript" src="https://www.counters-free.net/count/64ng"></script><br>
+ <a href='https://www.horando.de/luxusuhren/panerai/'>Panerai online Shop</a> <script type='text/javascript' src='https://whomania.com/ctr?id=2efce85e2833354053291694cdf0240ebe4317a8'></script>
