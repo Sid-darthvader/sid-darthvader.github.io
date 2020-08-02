@@ -16,7 +16,7 @@ In my free time you will find me listening to Classical Rock music, watching sit
 
 ## News
   - Released "Network Learning approaches to study World Happiness" on <a href="http://arxiv.org/abs/2007.09181"> arxiv.</a> (July'2020)
-  - Our work just got accepted in <a href="https://www.cambridge.org/core/journals/data-centric-engineering"> Cambridge University Press (July'2020).Pre-print available <href="https://drive.google.com/file/d/1C5chgw5nUV44JG-4XRjZg5k0dOxDA29O/view?usp=sharing">here</a>.
+  - Our work just got accepted in <a href="https://www.cambridge.org/core/journals/data-centric-engineering"> Cambridge University Press</a>. Pre-print available <a href="https://drive.google.com/file/d/1C5chgw5nUV44JG-4XRjZg5k0dOxDA29O/view?usp=sharing"> here</a>. (July'2020)
   - Presentated my poster at FAIR-DI-2020, Berlin (June'2020). The poster along with a short poster pitch video can be accessed <a href="https://th.fhi-berlin.mpg.de/meetings/fairdi2020/index.php?n=Meeting.PosterDetails&poster_id=8">here.</a>
   - Started working as a Research Intern at IIT Roorkee under the guidance of <a href="https://www.iitr.ac.in/~MT/Abhishek_Tewari">Prof. Abhishek Tewari.</a>(May'2020-Present)
   <!-- Write your comments here -->
