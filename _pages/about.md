@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 Hi! I am Sid. My area of research lies in Predictive Modelling, Statistical Machine Learning and more recently Causal Inference. 
-Previously, I have worked on its applications to areas such as Materials Informatics, Computational Social Sciences, Business Analytics and Enviromental Sciences.
+Previously, I have worked on its applications to areas such as Materials Informatics, Computational Social Sciences, Business Analytics and Environmental Sciences.
+I have been fortunate enough to be advised by <a href="https://wwwfr.uni.lu/recherche/fstm/doe/members/stephane_bordas">Prof. Stéphane Bordas</a>, <a href="https://www.iitr.ac.in/~MT/Abhishek_Tewari">Prof. Abhishek Tewari</a> & <a href="https://math.snu.edu.in/people/faculty/niteesh-sahni">Prof. Niteesh Sahni</a> without whose unprecedented support & guidance has helped me progress further in my career.
 
 In my free time you will find me listening to Classical Rock music, watching sitcoms or trying to find excuses to quote silly puns and Star Wars references. As a kid, I was quite fascinated by how Artificial Intelligence got potrayed in sci-fi movies and novels which ultimately led me into in this field today.
 
@@ -21,7 +22,7 @@ In my free time you will find me listening to Classical Rock music, watching sit
   - Started working as a Research Intern at IIT Roorkee under the guidance of <a href="https://www.iitr.ac.in/~MT/Abhishek_Tewari">Prof. Abhishek Tewari.</a>(May'2020-Present)
   <!-- Write your comments here -->
   <!-- <dd>Working with <a href="https://www.iitr.ac.in/~MT/Abhishek_Tewari">Prof. Abhishek Tewari</a>, MMED, IIT Roorkee on Machine Learning based discovery of novel Thermoeletric Materials.</dd> -->
-  - Invited to visit University of Luxembourg as a Visiting Research Scholar to work with <a href="https://legato-team.eu/ "> Legato team</a> of  <a href="https://wwwfr.uni.lu/recherche/fstm/doe/members/stephane_bordas">Prof. Stephane Bordas</a> on Physics Informed Deep Learning with its applications in Breast Biomechanics. (Mar'2020)
+  - Invited to visit University of Luxembourg as a Visiting Research Scholar to work with <a href="https://legato-team.eu/ "> Legato team</a> of <a href="https://wwwfr.uni.lu/recherche/fstm/doe/members/stephane_bordas">Prof. Stéphane Bordas</a> on Physics Informed Deep Learning with its applications in Breast Biomechanics. (Mar'2020)
 
 ## Publications
 <ul>
