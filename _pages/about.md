@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Sid. My area of research lies in Predictive Modelling, Statistical Machine Learning and Causal Inference. 
+Hi! I am Sid. My area of research lies in Predictive Modelling, Statistical Machine Learning and more recently Causal Inference. 
 Previously, I have worked on its applications to areas such as Materials Informatics, Computational Social Sciences, Business Analytics and Enviromental Sciences.
 
 In my free time you will find me listening to Classical Rock music, watching sitcoms or trying to find excuses to quote silly puns and Star Wars references. As a kid, I was quite fascinated by how Artificial Intelligence got potrayed in sci-fi movies and novels which ultimately got me doing research in this field today.
@@ -23,8 +23,7 @@ In my free time you will find me listening to Classical Rock music, watching sit
   <dt><b>Invited to visit University of Luxembourg as a Visiting Scholar (Mar'2020)</b></dt>
   <dd>Worked with the <a href="https://legato-team.eu/ "> Legato team</a> of  <a href="https://wwwfr.uni.lu/recherche/fstm/doe/members/stephane_bordas">Prof. Stephane Bordas</a> on Physics Informed Deep Learning with its applications in Breast Biomechanics.</dd>
 </dl>
-    <h2>Publications</h2>
-    <p style="font-size:8px;"><ol>
+## Publications
   <li><a href="https://drive.google.com/file/d/1C5chgw5nUV44JG-4XRjZg5k0dOxDA29O/view?usp=sharing"><i>"Machine Learning approaches to identify and design Low Thermal Conductivity Oxide Alloys for Thermoelectric Applications" </i></a> in <strong><i>Cambridge University Press</i></strong> </li>
   <li><a href="http://arxiv.org/abs/2007.09181"><i>"Network Learning approaches to study World Happiness" </i></a> in <strong><i> Journal of Computational Social Sciences, Springer</i></strong></li>
   <li><a href="https://www.turing.ac.uk/research/publications/data-study-group-network-final-report-bristol-city-council"><i>"Get Bristol Moving-Tackling Air Pollution in Bristol City Center"</i></a>in <strong><i>Alan Turing Institute, London</i></strong></li>
