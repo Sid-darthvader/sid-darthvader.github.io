@@ -14,15 +14,12 @@ Currently I am doing research in Predictive Modelling (using Machine Learning, D
 and its applications to areas such as (but not limited to) Computational Materials Science, Business Analytics, Enviromental Sciences and Human Well Being.
 
 
-News
-======
+## News
 
-### Working as a Research Intern at IIT Roorkee
+### Working as a Research Intern at IIT Roorkee (May-2020)
 Working with <a href="https://www.iitr.ac.in/~MT/Abhishek_Tewari">Prof. Abhishek Tewari</a>, MMED, IIT Roorkee on Machine Learning based discovery of new and promising Thermoeletric Materials.  
 
-### Invited to visit University of Luxembourg as a Visiting Scholar
-Working with the Legato team of Prof. Stephane Bordas on Physics Informed deep learning with its applications in Breast Biomechanics.
+### Invited to visit University of Luxembourg as a Visiting Scholar (Mar-2020)
+Working with the <a href="https://legato-team.eu/ "> Legato team</a> of  <a href="https://wwwfr.uni.lu/recherche/fstm/doe/members/stephane_bordas">Prof. Stephane Bordas</a> on Physics Informed Deep Learning with its applications in Breast Biomechanics.
 
-<div id="sidebar" style="float:right;">
-<a class="twitter-timeline" width="280" height="300" href="https://twitter.com/sid__darthVader?ref_src=twsrc%5Etfw">Tweets by sid__darthVader</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
+<a class="twitter-timeline" width="380" height="400" href="https://twitter.com/sid__darthVader?ref_src=twsrc%5Etfw">Tweets by sid__darthVader</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
