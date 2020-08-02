@@ -14,10 +14,12 @@ In my free time you will find me listening to Classical Rock music, watching sit
 
 
 ## News
-### Working as a Research Intern at IIT Roorkee (May-2020)
-Working with <a href="https://www.iitr.ac.in/~MT/Abhishek_Tewari">Prof. Abhishek Tewari</a>, MMED, IIT Roorkee on Machine Learning based discovery of new and promising Thermoeletric Materials.  
 
-### Invited to visit University of Luxembourg as a Visiting Scholar (Mar-2020)
-Working with the <a href="https://legato-team.eu/ "> Legato team</a> of  <a href="https://wwwfr.uni.lu/recherche/fstm/doe/members/stephane_bordas">Prof. Stephane Bordas</a> on Physics Informed Deep Learning with its applications in Breast Biomechanics.
-
+<dl>
+  <dt><s>Working as a Research Intern at IIT Roorkee (May-2020)</s></dt>
+  <dd>- Started working with <a href="https://www.iitr.ac.in/~MT/Abhishek_Tewari">Prof. Abhishek Tewari</a>, MMED, IIT Roorkee on Machine Learning based discovery of new and promising Thermoeletric Materials.  
+</dd>
+  <dt><s>Invited to visit University of Luxembourg as a Visiting Scholar (Mar-2020)</s></dt>
+  <dd>- Working with the <a href="https://legato-team.eu/ "> Legato team</a> of  <a href="https://wwwfr.uni.lu/recherche/fstm/doe/members/stephane_bordas">Prof. Stephane Bordas</a> on Physics Informed Deep Learning with its applications in Breast Biomechanics.</dd>
+</dl>
 <a class="twitter-timeline" width="380" height="400" href="https://twitter.com/sid__darthVader?ref_src=twsrc%5Etfw">Tweets by sid__darthVader</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
