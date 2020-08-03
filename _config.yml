@@ -85,10 +85,10 @@ author:
   bio              : "Machine Learning Researcher"
   location         : "India"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=_mI2aUgAAAAJ&hl=en"
   email            : "sd882@snu.edu.in"
-  researchgate     :  # example: "https://www.researchgate.net/profile/Siddharth_Dixit5"
+  researchgate     : "https://www.researchgate.net/profile/Siddharth_Dixit5"
   uri              :
   bitbucket        :
   codepen          :
