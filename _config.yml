@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "siddharth-dixit-76802915b"
-  orcid            : "https://orcid.org/0000-0002-9417-3564"
+  orcid            : #"https://orcid.org/0000-0002-9417-3564"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
