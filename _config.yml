@@ -84,12 +84,12 @@ author:
   avatar           : "profile.png"
   bio              : "Machine Learning Researcher"
   location         : "India"
-  employer         :
+  employer         : Shiv Nadar University
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=_mI2aUgAAAAJ&hl=en"
   email            : "sd882@snu.edu.in"
   researchgate     : "https://www.researchgate.net/profile/Siddharth_Dixit5"
-  uri              :
+  medium           : "https://medium.com/@sid_darthvader"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "siddharth-dixit-76802915b"
-  orcid            : #"https://orcid.org/0000-0002-9417-3564"
+  orcid            : "https://orcid.org/0000-0002-9417-3564"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
