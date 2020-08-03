@@ -12,8 +12,8 @@ Hi! I am Sid. My area of research lies in Predictive Modelling, Statistical Mach
 Previously, I have worked on its applications in diverse areas such as Materials Informatics, Computational Social Sciences, Business Analytics and Environmental Sciences.
 Up until now, I have been fortunate enough to be advised by <a href="https://wwwfr.uni.lu/recherche/fstm/doe/members/stephane_bordas">Prof. Stéphane Bordas</a>, <a href="https://www.iitr.ac.in/~MT/Abhishek_Tewari"> Prof. Abhishek Tewari</a> & <a href="https://math.snu.edu.in/people/faculty/niteesh-sahni">Prof. Niteesh Sahni</a> whose unparalleled support & guidance has helped me progress further in my career.
 
-As a kid, I was quite fascinated by how Artificial Intelligence got potrayed in sci-fi movies and novels which ultimately led me into in this field today.
-In my free time you will find me listening to Classical Rock music, watching sitcoms, crime-thrillers or trying to find excuses to quote silly puns and Star Wars references.
+As a kid, I was quite fascinated by how Artificial Intelligence got potrayed in sci-fi movies and novels which has ultimately led me into in this field today.
+In my free time you will find me listening to classical rock music, watching sitcoms, crime-thrillers or trying to find excuses to quote silly puns and Star Wars references.
 
 
 ## News
