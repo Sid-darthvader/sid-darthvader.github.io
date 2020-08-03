@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Machine Learning Researcher"
   location         : "India"
-  employer         : Shiv Nadar University
+  employer         : #Shiv Nadar University
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=_mI2aUgAAAAJ&hl=en"
   email            : "sd882@snu.edu.in"
