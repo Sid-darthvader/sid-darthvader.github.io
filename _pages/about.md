@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-> **“Do. Or do not. There is no try.”** ~ Yoda in The Empire Strikes Back.
+> **_“Do. Or do not. There is no try.”_** ~ Yoda in The Empire Strikes Back.
 
 Hi! I am Sid. My area of research lies in Predictive Modelling, Statistical Machine Learning and more recently Causal Inference. 
 Previously, I have worked on its applications in diverse areas such as Materials Informatics, Computational Social Sciences, Business Analytics and Environmental Sciences.
