@@ -35,4 +35,4 @@ In my free time you will find me listening to classical rock music, binging on s
   <a class="twitter-timeline" width="380" height="400" href="https://twitter.com/sid__darthVader?ref_src=twsrc%5Etfw">Tweets by sid__darthVader</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
   
 <script type="text/javascript" src="https://www.counters-free.net/count/64ng"></script><br>
- <a href='https://www.horando.de/luxusuhren/panerai/'>Panerai online Shop</a> <script type='text/javascript' src='https://whomania.com/ctr?id=2efce85e2833354053291694cdf0240ebe4317a8'></script>
+
