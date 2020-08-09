@@ -7,6 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-174994648-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-174994648-1');
+</script>
+
 > **_“Do. Or do not. There is no try.”_** ~ Yoda, The Empire Strikes Back.
 
 Hi! I am Sid. My area of research lies in Predictive Modelling, Statistical Machine Learning and more recently Causal Inference. 
