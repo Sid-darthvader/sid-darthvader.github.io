@@ -28,6 +28,7 @@ In my free time you will find me listening to classical rock music, binging on s
 
 
 ## News
+  - Co-Teaching a course on Deep Learning(MAT-494: Monsoon-2020) at SNU. A description of the sessions conducted can be found <a href="https://github.com/Sid-darthvader/MAT-494-Deep-Learning-SNU"> here.</a>
   - Released "Network Learning approaches to study World Happiness" on <a href="http://arxiv.org/abs/2007.09181"> arxiv.</a> (July'2020)
   - Our work just got accepted in <a href="https://www.cambridge.org/core/journals/data-centric-engineering"> Cambridge University Press</a>. Full-Paper available <a href="https://www.cambridge.org/core/journals/data-centric-engineering/article/machine-learning-approaches-to-identify-and-design-low-thermal-conductivity-oxides-for-thermoelectric-applications/7086514CABE816961AA8413206FD6977"> here</a>. (July'2020)
   - Gave a poster presentation at FAIR-DI-2020, Berlin (June'2020). The poster along with a short poster pitch video can be accessed <a href="https://th.fhi-berlin.mpg.de/meetings/fairdi2020/index.php?n=Meeting.PosterDetails&poster_id=8">here.</a>
