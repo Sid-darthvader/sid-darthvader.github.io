@@ -28,6 +28,7 @@ In my free time you will find me listening to classical rock music, binging on s
 
 
 ## News
+  - Started working as a Data Scientist (intern) at <a href="http://causalens.com/"> Causalens</a>.
   - Co-Teaching a course on Deep Learning(MAT-494: Monsoon-2020) at SNU. A description of the sessions conducted can be found <a href="https://github.com/Sid-darthvader/MAT-494-Deep-Learning-SNU"> here.</a>
   - Released "Network Learning approaches to study World Happiness" on <a href="http://arxiv.org/abs/2007.09181"> arxiv.</a> (July'2020)
   - Our work just got accepted in <a href="https://www.cambridge.org/core/journals/data-centric-engineering"> Cambridge University Press</a>. Full-Paper available <a href="https://www.cambridge.org/core/journals/data-centric-engineering/article/machine-learning-approaches-to-identify-and-design-low-thermal-conductivity-oxides-for-thermoelectric-applications/7086514CABE816961AA8413206FD6977"> here</a>. (July'2020)
