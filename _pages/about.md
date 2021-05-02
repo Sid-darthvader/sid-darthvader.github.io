@@ -16,7 +16,7 @@ redirect_from:
 
   gtag('config', 'UA-174994648-1');
 </script>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 > **_“Do. Or do not. There is no try.”_** ~ Yoda, The Empire Strikes Back.
 
 Hi! I am Sid. My area of research lies in Predictive Modelling, Statistical Machine Learning and more recently Causal Inference. 
@@ -41,8 +41,8 @@ In my free time you will find me listening to classical rock music, binging on s
 ## Publications
 <ul>
   <li><a href="https://www.cambridge.org/core/journals/data-centric-engineering/article/machine-learning-approaches-to-identify-and-design-low-thermal-conductivity-oxides-for-thermoelectric-applications/7086514CABE816961AA8413206FD6977">"Machine Learning approaches to identify and design Low Thermal Conductivity Oxide Alloys for Thermoelectric Applications"</a> in <strong><i>Cambridge University Press</i></strong> </li>
-  <li><a href="http://arxiv.org/abs/2007.09181">"Network Learning approaches to study World Happiness"</a> in <strong><i> Arxiv</i></strong></li>
-  <li><a href="https://www.turing.ac.uk/research/publications/data-study-group-network-final-report-bristol-city-council">"Get Bristol Moving-Tackling Air Pollution in Bristol City Center"</a>by <strong><i>Alan Turing Institute, London</i></strong></li>
+  <li><a href="http://arxiv.org/abs/2007.09181">"Network Learning approaches to study World Happiness"</a> <strong><i> Arxiv Pre-print</i></strong></li>
+  <li><a href="https://www.turing.ac.uk/research/publications/data-study-group-network-final-report-bristol-city-council">"Get Bristol Moving-Tackling Air Pollution in Bristol City Center"</a> by <strong><i>Alan Turing Institute, London</i></strong></li>
 </ul>
   <a class="twitter-timeline" width="380" height="400" href="https://twitter.com/sid__darthVader?ref_src=twsrc%5Etfw">Tweets by sid__darthVader</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
   
