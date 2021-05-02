@@ -46,8 +46,6 @@ In my free time you will find me listening to classical rock music, binging on s
 </ul>
   <a class="twitter-timeline" width="380" height="400" href="https://twitter.com/sid__darthVader?ref_src=twsrc%5Etfw">Tweets by sid__darthVader</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
   
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="siddharth-dixit-76802915b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/siddharth-dixit-76802915b?trk=profile-badge">Siddharth Dixit</a></div>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="siddharth-dixit-76802915b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/siddharth-dixit-76802915b?trk=profile-badge">Siddharth Dixit</a></div>
               
               
 <script type="text/javascript" src="https://www.counters-free.net/count/64ng"></script><br>
