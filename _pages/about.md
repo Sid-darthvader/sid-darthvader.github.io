@@ -16,7 +16,7 @@ redirect_from:
 
   gtag('config', 'UA-174994648-1');
 </script>
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 > **_“Do. Or do not. There is no try.”_** ~ Yoda, The Empire Strikes Back.
 
 Hi! I am Sid. My area of research lies in Predictive Modelling, Statistical Machine Learning and more recently Causal Inference. 
@@ -46,5 +46,7 @@ In my free time you will find me listening to classical rock music, binging on s
 </ul>
   <a class="twitter-timeline" width="380" height="400" href="https://twitter.com/sid__darthVader?ref_src=twsrc%5Etfw">Tweets by sid__darthVader</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
   
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="siddharth-dixit-76802915b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/siddharth-dixit-76802915b?trk=profile-badge">Siddharth Dixit</a></div>
+              
 <script type="text/javascript" src="https://www.counters-free.net/count/64ng"></script><br>
 
