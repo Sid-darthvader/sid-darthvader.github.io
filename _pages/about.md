@@ -28,7 +28,7 @@ In my free time you will find me listening to classical rock music, binging on s
 
 
 ## News
-  - Defended my undergraduate thesis: <a href="https://drive.google.com/file/d/1AgArzy2LmCC66okChN-i4su_43dYgiDj/view?usp=sharing">_"Rising above ML: The case of causality in SME Lending"_ </a>. I have officially graduated now! (May'2020)
+  - Defended my undergraduate thesis: <a href="https://drive.google.com/file/d/1AgArzy2LmCC66okChN-i4su_43dYgiDj/view?usp=sharing">"Rising above ML: The case of causality in SME Lending"</a>. I have officially graduated now! (May'2020)
   - Started working as a Data Scientist (intern) at <a href="http://causalens.com/"> Causalens</a>, London. (Dec'2020)
   - Co-Teaching a course on Deep Learning(MAT-494: Monsoon-2020) at SNU. A description of the sessions conducted can be found <a href="https://github.com/Sid-darthvader/MAT-494-Deep-Learning-SNU"> here.</a>
   - Released "Network Learning approaches to study World Happiness" on <a href="http://arxiv.org/abs/2007.09181"> arxiv.</a> (July'2020)
