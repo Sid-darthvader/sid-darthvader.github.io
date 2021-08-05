@@ -28,7 +28,7 @@ In my free time you will find me listening to classical rock music, binging on s
 
 
 ## News
-  - Participating in the <a href="https://lida.leeds.ac.uk/partnerships/lida-partners/the-alan-turing-institute/turing-data-study-group-at-lida/">Turing-Leeds DSG</a> as a Visiting Researcher to work with a veterinary consultancy company: <a href="https://www.joiipetcare.com/">Vet AI</a>, to help them optimize their consultation rota/queueing using predictive modelling. 
+  - Participating in the <a href="https://lida.leeds.ac.uk/partnerships/lida-partners/the-alan-turing-institute/turing-data-study-group-at-lida/">Turing-Leeds DSG</a> as a Visiting Researcher to work with a veterinary consultancy company: <a href="https://www.joiipetcare.com/">Vet AI</a>, to help them optimize their consultation rota/queueing using predictive modelling. (July' 2021)
 
   - Defended my undergraduate thesis: <a href="https://drive.google.com/file/d/1AgArzy2LmCC66okChN-i4su_43dYgiDj/view?usp=sharing">"Rising above ML: The case of causality in SME Lending"</a>. I have officially graduated now! (May'2021)
   - Started working as a Data Scientist (intern) at <a href="http://causalens.com/"> Causalens</a>, London. (Dec'2020)
