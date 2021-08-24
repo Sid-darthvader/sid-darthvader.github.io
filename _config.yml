@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Siddharth Dixit"
 title_separator          : "-"
 name                     : &name "Siddharth Dixit"
-description              : &description "Data Scientist (intern) @ Causalens"
+description              : &description "Data Science Manager @ Stones2Milestones"
 url                      : https://sid-darthvader.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Siddharth Dixit"
   avatar           : "profile.png"
-  bio              : "Data Scientist (intern) @ Causalens"
+  bio              : "Data Science Manager @ Stones2Milestones"
   location         : "India"
   employer         : #Shiv Nadar University
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
