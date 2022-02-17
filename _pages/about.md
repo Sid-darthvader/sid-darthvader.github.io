@@ -19,7 +19,7 @@ redirect_from:
 
 > **_“Do. Or do not. There is no try.”_** ~ Yoda, The Empire Strikes Back.
 
-Hi! I am Sid. My area of research lies in Predictive Modelling, Statistical Machine Learning and more recently Causal Inference. 
+Hi! I am Sid. My areas of interest lie in Predictive Modelling, Statistical Machine Learning and more recently Causal Inference. 
 Previously, I have worked in their applications in diverse areas such as Materials Informatics, Computational Social Sciences, Business Analytics and Environmental Sciences.
 Uptill now, I have been quite fortunate to be advised by <a href="https://wwwfr.uni.lu/recherche/fstm/doe/members/stephane_bordas">Prof. Stéphane Bordas</a>, <a href="https://www.iitr.ac.in/~MT/Abhishek_Tewari"> Prof. Abhishek Tewari</a> & <a href="https://math.snu.edu.in/people/faculty/niteesh-sahni">Prof. Niteesh Sahni</a> whose unparalleled support & guidance has helped me move forward in my career.
 
@@ -30,7 +30,7 @@ In my free time you will find me listening to classical rock music, binging on s
 ## News
   - Started a new role as a Data Scientist at <a href="https://www.noodle.ai">Noodle.ai</a> and help create a world without waste. (Dec' 2021) 
   - Joined an ed-tech startup <a href="https://www.getfreadom.com/learning-app">fREADom (Stones2Milestones)</a> as a Manager-Data Science (Aug' 2021)
-  - Participating in the <a href="https://lida.leeds.ac.uk/partnerships/lida-partners/the-alan-turing-institute/turing-data-study-group-at-lida/">Turing-Leeds DSG</a> as a Visiting Researcher to work with a veterinary consultancy company: <a href="https://www.joiipetcare.com/">Vet AI</a>, to help them optimize their consultation rota/queueing using predictive modelling. (July' 2021)
+  - Participating in the <a href="https://lida.leeds.ac.uk/partnerships/lida-partners/the-alan-turing-institute/turing-data-study-group-at-lida/">Turing-Leeds DSG</a> as a Visiting Researcher to work with a veterinary consultancy company: <a href="https://www.joiipetcare.com/">Vet AI</a> (July' 2021)
 
   - Defended my undergraduate thesis: <a href="https://drive.google.com/file/d/1AgArzy2LmCC66okChN-i4su_43dYgiDj/view?usp=sharing">"Rising above ML: The case of causality in SME Lending"</a>. I have officially graduated now! (May'2021)
   - Started working as a Data Scientist (intern) at <a href="http://causalens.com/"> Causalens</a>, London. (Dec'2020)
