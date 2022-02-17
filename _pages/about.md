@@ -28,6 +28,7 @@ In my free time you will find me listening to classical rock music, binging on s
 
 
 ## News
+  - Started a new role as a Data Scientist at <a href="https://www.noodle.ai">Noodle.ai</a> and help create a world without waste. (Dec' 2021) 
   - Joined an ed-tech startup <a href="https://www.getfreadom.com/learning-app">fREADom (Stones2Milestones)</a> as a Manager-Data Science (Aug' 2021)
   - Participating in the <a href="https://lida.leeds.ac.uk/partnerships/lida-partners/the-alan-turing-institute/turing-data-study-group-at-lida/">Turing-Leeds DSG</a> as a Visiting Researcher to work with a veterinary consultancy company: <a href="https://www.joiipetcare.com/">Vet AI</a>, to help them optimize their consultation rota/queueing using predictive modelling. (July' 2021)
 
